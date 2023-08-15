@@ -7,7 +7,7 @@ acknowledgements: ""
 ---
 
 <center>
-<div style="overflow: hidden; text-align:center">
+<div style="overflow: hidden; text-align:center;">
    <div id="A" style="float:left; width: 10%;">
       <img src="{{ "/static/img/banner/tratapp.png" | prepend:site.baseurl }}">
    </div>
@@ -24,9 +24,9 @@ This is an app that we did for ourselves. We were not that sure we were using ou
 as we thought we were. You often hear that you should track your time, but it is a pain
 to do it. So we made this app to make it easier for us. We hope it helps you too.
 
-<br><br>
+<br>
 
-<div style="overflow: hidden; text-align:center">  
+<div style="overflow: hidden; text-align:center; width: 70%;">  
 <img src="{{ "/static/img/banner/trackattapp_eg.png" | prepend:site.baseurl }}">
 </div>
 
