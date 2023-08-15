@@ -52,13 +52,14 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 <br>
 
 <center>
-<button class="glow-on-hover">
+<button>
     <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Download!</a>
 </button>
 </center>
 
 <br>
 
+ class="glow-on-hover"
 The choice of the logo is not random. We thought of attention as a drop of water, and
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
 drop. So we thought of the app as a way to help you see how you are spending your drops
