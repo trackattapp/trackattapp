@@ -8,10 +8,10 @@ acknowledgements: ""
 
 <center>
 <div  class="row">
-   <div id="A" style="float:left; width: 10%;">
+   <div id="A" style="width: 10%;">
       <img src="{{ "/static/img/banner/tratapp.png" | prepend:site.baseurl }}">
    </div>
-   <div id="B" style="float: left; width: 50%;">
+   <div id="B" style="width: 50%;">
       <center><h1>TrackAttApp</h1></center>
         <center><h3>Now you know what you are doing</h3></center>
    </div>
