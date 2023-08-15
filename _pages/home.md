@@ -57,7 +57,7 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 Anywhere between your <body> and </body> tags, put in a button using the below code:
 
 <button>
-    <a href="https://drive.google.com/file/d/177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc/view?usp=sharing" download>Click to Download!</a>
+    <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Click to Download!</a>
 </button>
 
 The choice of the logo is not random. We thought of attention as a drop of water, and
