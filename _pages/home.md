@@ -21,22 +21,23 @@ acknowledgements: ""
 <br><br>
 
 This is an app that we did for ourselves. We were not that sure we were using our time
-as we thought we were. You often hear that you should track your time, but it is a pain
+as we thought we were. You often hear that you should track your time if you want
+to improve your productivity, but it is a pain
 to do it. So we made this app to make it easier for us. We hope it helps you too.
 
 <br>
 
 <center>
 <div style="overflow: hidden; text-align:center; width: 50%;">  
-<img src="{{ "/static/img/banner/trackattapp_eg.png" | prepend:site.baseurl }}" class="center">
+<img src="{{ "/static/img/banner/trackattapp_eg2.png" | prepend:site.baseurl }}" class="center">
 </div>
 </center>
 
 <br><br>
 
 We tried to make it as simple as we could think of. You just have to define the categories
-you want to track, and then the app will record the time you spend on each category. Then
-you can see the results in a pie chart. You can also see the results of previous days.
+you want to track (work, YouTube, messaging, ...), and the app records the time you spend on each 
+category. Then you can see the results on a pie chart.
 
 As soon as the App is on, you will see the Start and Stop Recording buttons. Those are
 self explainatory. The
