@@ -6,7 +6,7 @@ permalink: /
 acknowledgements: ""
 ---
 
-
+<center>
 <div style="overflow: hidden; text-align:center">
    <div id="A" style="float:left; width: 10%;">
       <img src="{{ "/static/img/banner/tratapp.png" | prepend:site.baseurl }}">
@@ -16,6 +16,7 @@ acknowledgements: ""
         <center><h3>Now you know what you are doing</h3></center>
    </div>
 </div>
+</center>
 
 <br><br>
 
