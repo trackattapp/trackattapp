@@ -53,6 +53,13 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 <button type="submit" onclick="window.open('https://drive.google.com/file/d/177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc/view?usp=sharing')">Download!</button>
 
 
+
+Anywhere between your <body> and </body> tags, put in a button using the below code:
+
+<button>
+    <a href="https://drive.google.com/file/d/177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc/view?usp=sharing" download>Click to Download!</a>
+</button>
+
 The choice of the logo is not random. We thought of attention as a drop of water, and
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
 drop. So we thought of the app as a way to help you see how you are spending your drops
