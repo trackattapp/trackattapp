@@ -7,7 +7,7 @@ acknowledgements: ""
 ---
 
 <center>
-<div style="overflow: hidden; text-align:center;">
+<div  class="row">
    <div id="A" style="float:left; width: 10%;">
       <img src="{{ "/static/img/banner/tratapp.png" | prepend:site.baseurl }}">
    </div>
@@ -27,7 +27,7 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 <br>
 
 <div style="overflow: hidden; text-align:center; width: 70%;">  
-<img src="{{ "/static/img/banner/trackattapp_eg.png" | prepend:site.baseurl }}">
+<img src="{{ "/static/img/banner/trackattapp_eg.png" | prepend:site.baseurl }}" class="center">
 </div>
 
 <br><br>
@@ -51,4 +51,4 @@ drop. So we thought of the app as a way to help you see how you are spending you
 of attention, so you can make sure you are using them to build the ocean you want.
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
