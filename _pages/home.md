@@ -17,15 +17,19 @@ acknowledgements: ""
    </div>
 </div>
 
+<br><br>
+
 This is an app that we did for ourselves. We were not that sure we were using our time
 as we thought we were. You often hear that you should track your time, but it is a pain
 to do it. So we made this app to make it easier for us. We hope it helps you too.
 
+<br><br>
 
 <div style="overflow: hidden; text-align:center">  
 <img src="{{ "/static/img/banner/trackattapp_eg.png" | prepend:site.baseurl }}">
 </div>
 
+<br><br>
 
 We tried to make it as simple as we could think of. You just have to define the categories
 you want to track, and then the app will record the time you spend on each category. Then
@@ -44,3 +48,6 @@ The choice of the logo is not random. We thought of attention as a drop of water
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
 drop. So we thought of the app as a way to help you see how you are spending your drops
 of attention, so you can make sure you are using them to build the ocean you want.
+
+
+<br><br><br><br><br><br><br>
