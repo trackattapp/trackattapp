@@ -6,6 +6,8 @@ permalink: /
 acknowledgements: ""
 ---
 
+Hi
+
 <center>
 <div  class="row">
    <div id="A" style="width: 10%;">
