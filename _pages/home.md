@@ -14,7 +14,7 @@ acknowledgements: ""
    </div>
    <div id="B" style="width: 50%;">
       <center><h1>TrackAttApp</h1></center>
-        <center><h3>Now you know what you are doing</h3></center>
+        <center><h3>Now you know you</h3></center>
    </div>
 </div>
 </center>
