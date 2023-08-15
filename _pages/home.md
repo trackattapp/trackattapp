@@ -6,7 +6,6 @@ permalink: /
 acknowledgements: ""
 ---
 
-Hi
 
 <center>
 <div  class="row">
@@ -52,7 +51,7 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 <br>
 
 <center>
-<button>
+<button class="glow-on-hover">
     <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Download!</a>
 </button>
 </center>
@@ -66,6 +65,3 @@ of attention, so you can make sure you are using them to build the ocean you wan
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
-
-
-hi nice twoasd
