@@ -13,7 +13,7 @@ acknowledgements: ""
    </div>
    <div id="B" style="float: left; width: 50%;">
       <center><h1>TrackAttApp</h1></center>
-        <center><h3>The App to finally know what you are doing</h3></center>
+        <center><h3>Now you finally know what you are doing</h3></center>
    </div>
 </div>
 
