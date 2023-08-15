@@ -47,15 +47,6 @@ saved, so you can use it for your own analysis. The camera icon, will save the c
 chart as a .png in the same folder. Instead, the update icon, will load the changes you have 
 made in the tags_and_keywords.txt file, without having to restart the app.
 
-<a role="button" href=https://drive.google.com/file/d/177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc/view?usp=sharing download="TrackAttApp.exe"><button>Download</button></a>
-
-
-<button type="submit" onclick="window.open('https://drive.google.com/file/d/177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc/view?usp=sharing')">Download!</button>
-
-
-
-Anywhere between your <body> and </body> tags, put in a button using the below code:
-
 <button>
     <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Click to Download!</a>
 </button>
