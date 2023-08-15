@@ -47,12 +47,15 @@ saved, so you can use it for your own analysis. The camera icon, will save the c
 chart as a .png in the same folder. Instead, the update icon, will load the changes you have 
 made in the tags_and_keywords.txt file, without having to restart the app.
 
+<br>
+
 <center>
 <button class="glow-on-hover">
-    <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Click to Download!</a>
+    <a href="https://drive.google.com/uc?export=download&id=177zg1OhahNxrI-oqVLS-sY-PzZ_x0nmc" download>Download!</a>
 </button>
 </center>
 
+<br>
 
 The choice of the logo is not random. We thought of attention as a drop of water, and
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
