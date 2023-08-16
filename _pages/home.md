@@ -58,6 +58,7 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 
 <br>
 
+If you like the App and you want to make a donation here is where you can do it:
 
 <center>
 <button class="glow-on-hover">
