@@ -58,6 +58,24 @@ made in the tags_and_keywords.txt file, without having to restart the app.
 
 <br>
 
+
+<center>
+<div  class="row">
+   <div id="A" style="width: 10%;">
+    <button class="glow-on-hover">
+        <a href="https://drive.google.com/uc?export=download&id=1uZm3YjT6yQvq5ps7sieoNGWYnF0tR1Vh" download>One Donation!</a>
+    </button>
+   </div>
+   <div id="B" style="width: 50%;">
+    <button class="glow-on-hover">
+        <a href="https://drive.google.com/uc?export=download&id=1uZm3YjT6yQvq5ps7sieoNGWYnF0tR1Vh" download>Recurring Donation!</a>
+    </button>
+   </div>
+</div>
+</center>
+
+<br>
+
 The choice of the logo is not random. We thought of attention as a drop of water, and
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
 drop. So we thought of the app as a way to help you see how you are spending your drops
