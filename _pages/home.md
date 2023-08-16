@@ -46,7 +46,13 @@ pie chart will start updating in real time. The home icon will take you to the f
 where the data is being
 saved, so you can use it for your own analysis. The camera icon, will save the current pie
 chart as a .png in the same folder. Instead, the update icon, will load the changes you have 
-made in the tags_and_keywords.txt file, without having to restart the app.
+made in the tags_and_keywords.txt file, without having to restart the app. 
+
+Notice that the App
+reads the name of the window that is active, so, if you are reading a document and when you hover
+on the icon with the mouse it says abc_123.pdf, and you consider that to be part of your work,
+you can write .pdf or abc, if you consider that to be a better identifier,
+in the tags_and_keywords.txt after the work tag.
 
 <br>
 
