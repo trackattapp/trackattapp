@@ -42,7 +42,10 @@ As soon as the App is on, you will see the Start and Stop Recording buttons. Tho
 self explainatory. The
 pie chart will start updating in real time. The home icon will take you to the folder 
 where the data is being
-saved, so you can use it for your own analysis. The camera icon, will save the current pie
+saved, so you can use it for your own analysis. Notice that the data is saved in your computer, and 
+is never sent anywhere, for you to have full control on your data. 
+In fact, the app does not even require internet connection.
+The camera icon, will save the current pie
 chart as a .png in the same folder. Instead, the update icon, will load the changes you have 
 made in the tags_and_keywords.txt file, without having to restart the app. 
 
