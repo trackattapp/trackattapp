@@ -29,9 +29,7 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 <br>
 
 <center>
-<div style="overflow: hidden; text-align:center; width: 50%;">  
 <img src="{{ "/static/img/banner/trackattapp_eg2.png" | prepend:site.baseurl }}" class="center-fit" >
-</div>
 </center>
 
 <br><br>
