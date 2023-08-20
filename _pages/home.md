@@ -66,7 +66,7 @@ in the tags_and_keywords.txt after the work tag.
 
 <br>
 
-If you have any question or suggestion, send an email to : [luca.herrtti@gmail.ca].
+If you have any question or suggestion, send an email to : [luca.herrtti@gmail.com].
 If you like the App and you want to make a donation here is where you can do it:
 
 <br>
