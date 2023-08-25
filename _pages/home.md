@@ -60,7 +60,7 @@ in the tags_and_keywords.txt after the work tag.
 
 <center>
 <button class="glow-on-hover">
-    <a href="https://drive.google.com/uc?export=download&id=1uZm3YjT6yQvq5ps7sieoNGWYnF0tR1Vh" download>Download!</a>
+    <a href="https://ln5.sync.com/dl/227a23980/4i84x9g9-kbfhmgan-vpu64riw-nbgcspm7" download>Download!</a>
 </button>
 </center>
 
