@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "TrackAttApp: Understand yourself"
-title: "TrackAttApp: Understand yourself"
+urltitle:  "TrackAttApp: Now you know you"
+title: "TrackAttApp: Now you know you"
 permalink: /
 acknowledgements: ""
 ---
