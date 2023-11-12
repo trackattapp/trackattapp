@@ -34,6 +34,8 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 <img src="{{ "/static/img/banner/taa_p1.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
 </center>
 
+<br>
+
 <center>
 <img src="{{ "/static/img/banner/taa_p2.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
 </center>
@@ -45,11 +47,13 @@ you want to track (work, YouTube, messaging, ...), and the app records the time 
 category. Then you can see the results on a few plots that give you a clearer
 understanding on how you spent your time.
 
-As soon as the App is on, you will see the Start and Stop Recording buttons. Those are
-self explainatory. The
-pie chart will start updating in real time. The home icon will take you to the folder 
-where the data is being
-saved, so you can use it for your own analysis. Notice that the data is saved in your computer, and 
+As soon as the App is on, you will see the Start Session button. The app will start recording
+as you open it, but the sessions allow you to commit to an amount of time of your choice
+and you will hear sounds that will let you know if you are on track or not to do what you
+decided you wanted to do. 
+The pie chart will start updating in real time. The edit icon will take you to the folder 
+where the data is being saved, so you can use it for your own analysis. 
+Notice that the data is only saved in your computer, and 
 is never sent anywhere, for you to have full control on your data. 
 In fact, the app does not even require internet connection.
 The camera icon, will save the current pie
