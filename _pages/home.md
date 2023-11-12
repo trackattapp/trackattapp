@@ -32,6 +32,9 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 
 <center>
 <img src="{{ "/static/img/banner/taa_p1.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
+</center>
+
+<center>
 <img src="{{ "/static/img/banner/taa_p2.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
 </center>
 
@@ -39,7 +42,8 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 
 We tried to make it as simple as we could think of. You just have to define the categories
 you want to track (work, YouTube, messaging, ...), and the app records the time you spend on each 
-category. Then you can see the results on a pie chart.
+category. Then you can see the results on a few plots that give you a clearer
+understanding on how you spent your time.
 
 As soon as the App is on, you will see the Start and Stop Recording buttons. Those are
 self explainatory. The
