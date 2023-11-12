@@ -21,7 +21,8 @@ acknowledgements: ""
 
 <br><br>
 
-This is an app that we did for ourselves. We were not that sure we were using our time
+This is an app that we did to help ourselves. 
+We were not that sure we were using our time
 as we thought we were. You often hear that you should track your time if you want
 to improve your productivity, but it is a pain
 to do it. So we made this app to make it easier for us. We hope it helps you too.
@@ -29,7 +30,8 @@ to do it. So we made this app to make it easier for us. We hope it helps you too
 <br>
 
 <center>
-<img src="{{ "/static/img/banner/trackattapp_eg2.png" | prepend:site.baseurl }}" class="center-fit" >
+<img src="{{ "/static/img/banner/taa_p1.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
+<img src="{{ "/static/img/banner/taa_p2.png" | prepend:site.baseurl }}" class="center-fit" width="80%" >
 </center>
 
 <br><br>
