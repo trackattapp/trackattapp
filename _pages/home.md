@@ -23,7 +23,8 @@ acknowledgements: ""
 
 This is an app that we did to help ourselves. 
 We were not that sure we were using our time
-as we thought we were. You often hear that you should track your time if you want
+as we thought we were, and you often hear that you can only improve what you can measure, so
+you should track your time if you want
 to improve your productivity, but it is a pain
 to do it. So we made this app to make it easier for us. We hope it helps you too.
 
