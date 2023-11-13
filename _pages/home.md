@@ -45,6 +45,15 @@ help you track how you spend your attention, but also to help
 you train your tenacity, help you train your capacity to stick 
 to what you want to do.
 
+
+<br>
+
+The choice of the logo is not random. We thought of attention as a drop of water, and
+whatever you want to become or to achieve as an ocean, that you can achieve only drop by
+drop. So we thought of the app as a way to help you see how you are spending your drops
+of attention, so you can make sure you are using them to build the ocean you want.
+
+
 <br>
 
 <center>
@@ -104,13 +113,5 @@ If you like the App and you want to make a donation here is where you can do it:
     <a href="https://buy.stripe.com/bIYcNI5tK1pt9P28ww">Donation!</a>
 </button>
 </center>
-
-<br>
-
-The choice of the logo is not random. We thought of attention as a drop of water, and
-whatever you want to become or to achieve as an ocean, that you can achieve only drop by
-drop. So we thought of the app as a way to help you see how you are spending your drops
-of attention, so you can make sure you are using them to build the ocean you want.
-
 
 <br><br><br><br><br><br><br><br><br><br><br>
