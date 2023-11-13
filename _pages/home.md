@@ -28,7 +28,6 @@ You should track your time if you want to improve your productivity,
 but in practice, it is a pain to do it. 
 So we made this app to make it easier for us. We hope it helps you too.
 
-<br>
 
 <center>
 <button class="glow-on-hover">
