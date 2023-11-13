@@ -36,13 +36,11 @@ So we made this app to make it easier for us. We hope it helps you too.
 
 Also, in times where every company is trying 
 to conquer your attention and reduce to zero your productivity,
-it's good to have a tool to fight back. Our goal is not only to
+you want to have a tool to fight back. Our goal is not only to
 help you track how you spend your attention, but also to help 
 you train your tenacity, help you train your capacity to stick 
 to what you want to do.
 
-
-<br>
 
 The choice of the logo is not random. We thought of attention as a drop of water, and
 whatever you want to become or to achieve as an ocean, that you can achieve only drop by
