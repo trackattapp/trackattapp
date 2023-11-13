@@ -23,10 +23,20 @@ acknowledgements: ""
 
 This is an app that we built to help ourselves. 
 We were not that sure we were using our time as we thought we were, 
-and you often hear that you can only improve what you can measure, so 
-you should track your time if you want to improve your productivity, 
+and you often hear that you can only improve what you can measure. 
+You should track your time if you want to improve your productivity, 
 but in practice, it is a pain to do it. 
 So we made this app to make it easier for us. We hope it helps you too.
+
+<br>
+
+<center>
+<button class="glow-on-hover">
+    <a href="https://www.dropbox.com/scl/fi/6gfuyb9yyblobe0bkcj6r/TrackAttApp.exe?rlkey=95h2kafinxxscorg8x4d4nrna&dl=1" download>Download!</a>
+</button>
+</center>
+
+<br>
 
 Also, in times where every company is trying 
 to conquer your attention and reduce to zero your productivity,
