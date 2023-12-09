@@ -32,7 +32,7 @@ So we made this app to make it easier for us. We hope it helps you too.
 
 <center>
 <button class="glow-on-hover">
-    <a href="https://www.dropbox.com/scl/fi/6gfuyb9yyblobe0bkcj6r/TrackAttApp.exe?rlkey=95h2kafinxxscorg8x4d4nrna&dl=1" download>Download!</a>
+    <a href="https://www.dropbox.com/scl/fi/txsu7ye0upm0rohwhdin0/MindSmithy.exe?rlkey=awkjc4hv2aktqwc8c1glr2i7w&dl=1" download>Download!</a>
 </button>
 </center>
 
@@ -95,7 +95,7 @@ in the tags_and_keywords.txt after the work tag.
 
 <center>
 <button class="glow-on-hover">
-    <a href="https://www.dropbox.com/scl/fi/6gfuyb9yyblobe0bkcj6r/TrackAttApp.exe?rlkey=95h2kafinxxscorg8x4d4nrna&dl=1" download>Download!</a>
+    <a href="https://www.dropbox.com/scl/fi/txsu7ye0upm0rohwhdin0/MindSmithy.exe?rlkey=awkjc4hv2aktqwc8c1glr2i7w&dl=1" download>Download!</a>
 </button>
 </center>
 
