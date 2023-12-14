@@ -38,6 +38,14 @@ So we made this app to make it easier for us. We hope it helps you too.
 
 <br>
 
+<center>
+<button class="glow-on-hover">
+    <a href="https://buy.stripe.com/6oE294aO47NR3qEfYZ" download>Subscribe!</a>
+</button>
+</center>
+
+<br>
+
 Also, in times where every company is trying 
 to conquer your attention and reduce to zero your productivity,
 you want to have a tool to fight back. Our goal is not only to
