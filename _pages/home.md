@@ -40,7 +40,7 @@ So we made this app to make it easier for us. We hope it helps you too.
 
 <center>
 <button class="glow-on-hover">
-    <a href="https://buy.stripe.com/6oE294aO47NR3qEfYZ" download>Subscribe!</a>
+    <a href="https://buy.stripe.com/5kA2945tK3xBgdqeUW" download>Subscribe!</a>
 </button>
 </center>
 
